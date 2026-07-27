@@ -128,6 +128,8 @@ HuggingFace Serverless Inference limited to models smaller than 10GB. Some popul
 
 ### [Vercel AI Gateway](https://vercel.com/docs/ai-gateway)
 
+* A credit card is required
+
 Routes to various supported providers.
 
 The free tier covers a subset of the model catalogue, with per-model rate limits.
